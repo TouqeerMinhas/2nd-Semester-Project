@@ -50,7 +50,7 @@ public class BankMain extends javax.swing.JFrame {
         jMenuItem7 = new JMenuItem();
 
         setDefaultCloseOperation(WindowConstants.EXIT_ON_CLOSE);
-        setTitle("ITSOURCECODE Bank Account Manager");
+        setTitle("Touqeer Bank Management");
 
         jButton1.setText("Create Account");
         jButton1.addActionListener(new ActionListener() {
